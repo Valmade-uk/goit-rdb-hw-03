@@ -1,4 +1,4 @@
-# Домашнє завдання: базові SQL-запити (MySQL)
+# Relational Databases: Concepts and Techniques: базові SQL-запити (MySQL)
 
 Цей репозиторій містить рішення домашнього завдання з теми **SELECT / агрегатні функції / DISTINCT / WHERE / GROUP BY** у **MySQL**.
 
@@ -124,7 +124,7 @@ GROUP BY supplier_id;
 
 ### Завдання 1
 - 1.1 `SELECT * FROM products;`  
-  ![Task 1.1](screenshots/task_1_1_products_select_all.png)
+  ![Task 1.1](./task_1_1.png)
 
 - 1.2 `SELECT name, phone FROM shippers;`  
   ![Task 1.2](screenshots/task_1_2_shippers_name_phone.png)
