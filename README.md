@@ -146,6 +146,3 @@ GROUP BY supplier_id;
   ![Task 5](./p_5.png)
 
 ---
-
-## Автор
-- **
