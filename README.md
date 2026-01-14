@@ -127,23 +127,23 @@ GROUP BY supplier_id;
   ![Task 1.1](./p_1.1.png)
 
 - 1.2 `SELECT name, phone FROM shippers;`  
-  ![Task 1.2](screenshots/task_1_2_shippers_name_phone.png)
+  ![Task 1.2](./p_1.2.png)
 
 ### Завдання 2
 - `AVG / MAX / MIN price`  
-  ![Task 2](screenshots/task_2_products_avg_max_min_price.png)
+  ![Task 2](./p_2.png)
 
 ### Завдання 3
 - `DISTINCT category_id, price` + `ORDER BY price DESC` + `LIMIT 10`  
-  ![Task 3](screenshots/task_3_distinct_category_price_limit_10.png)
+  ![Task 3](./p_3.png)
 
 ### Завдання 4
 - `COUNT(*) WHERE price BETWEEN 20 AND 100`  
-  ![Task 4](screenshots/task_4_count_price_between_20_100.png)
+  ![Task 4](./p_4.png)
 
 ### Завдання 5
 - `GROUP BY supplier_id` + `COUNT(*)` + `AVG(price)`  
-  ![Task 5](screenshots/task_5_group_by_supplier_count_avg.png)
+  ![Task 5](./p_5.png)
 
 ---
 
