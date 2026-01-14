@@ -135,7 +135,7 @@ GROUP BY supplier_id;
 
 ### Завдання 4
 - `COUNT(*) WHERE price BETWEEN 20 AND 100`  
-  ![Task 4](./tassk_4.png)
+  ![Task 4](./task_4.png)
 
 ### Завдання 5
 - `GROUP BY supplier_id` + `COUNT(*)` + `AVG(price)`  
