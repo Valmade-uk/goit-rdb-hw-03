@@ -123,11 +123,11 @@ GROUP BY supplier_id;
 > Рекомендована структура: `screenshots/`
 
 ### Завдання 1
-- `SELECT * FROM products;`  
-  ![Task 1](./p_1.png)
+- 1.1 `SELECT * FROM products;`  
+  ![Task 1.1](./p_1.png)
 
-- `SELECT name, phone FROM shippers;`  
-  ![Task 1.1](./p_1.1.png)
+- 1.2 `SELECT name, phone FROM shippers;`  
+  ![Task 1.2](./p_1.1.png)
 
 ### Завдання 2
 - `AVG / MAX / MIN price`  
