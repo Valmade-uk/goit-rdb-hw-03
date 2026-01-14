@@ -120,25 +120,25 @@ GROUP BY supplier_id;
 
 ### Завдання 1
 - 1.1 `SELECT * FROM products;`  
-  ![Task 1.1](./p_1.png)
+  ![Task 1.1](./task_1.1.png)
 
 - 1.2 `SELECT name, phone FROM shippers;`  
-  ![Task 1.2](./p_1.1.png)
+  ![Task 1.2](./task_1.2.png)
 
 ### Завдання 2
 - `AVG / MAX / MIN price`  
-  ![Task 2](./p_2.png)
+  ![Task 2](./task_2.png)
 
 ### Завдання 3
 - `DISTINCT category_id, price` + `ORDER BY price DESC` + `LIMIT 10`  
-  ![Task 3](./p_3.png)
+  ![Task 3](./task_3.png)
 
 ### Завдання 4
 - `COUNT(*) WHERE price BETWEEN 20 AND 100`  
-  ![Task 4](./p_4.png)
+  ![Task 4](./tassk_4.png)
 
 ### Завдання 5
 - `GROUP BY supplier_id` + `COUNT(*)` + `AVG(price)`  
-  ![Task 5](./p_5.png)
+  ![Task 5](./task_5.png)
 
 ---
