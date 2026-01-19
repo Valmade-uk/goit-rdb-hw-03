@@ -1,4 +1,4 @@
-# Relational Databases: Concepts and Techniques: базові SQL-запити (MySQL)
+# Relational Databases: Concepts and Techniques - базові SQL-запити (MySQL)
 
 Цей репозиторій містить рішення домашнього завдання з теми **SELECT / агрегатні функції / DISTINCT / WHERE / GROUP BY** у **MySQL**.
 
